@@ -11,7 +11,7 @@
 * 卖豆浆的小店冒着热气；
 
 
-`System.out.println("hello")`
+`System.out.println("hello");`
 
 
 ```javascript
